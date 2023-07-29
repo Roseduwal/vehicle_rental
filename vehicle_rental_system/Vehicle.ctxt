@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Vehicle\ here.\r\n\ \r\n\ @author\ (Rose\ Duwal,NP01CP4S220096)\r\n\ @version(1.0.0)\r\n
+comment1.params=vehicleID\ vehicleName\ vehicleColor\ vehicleWeight
+comment1.target=Vehicle(int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getVehicle()
+comment3.params=
+comment3.target=java.lang.String\ getVehicleName()
+comment4.params=
+comment4.target=java.lang.String\ getVehicleColor()
+comment5.params=
+comment5.target=java.lang.String\ getVehicleWeight()
+comment6.params=
+comment6.target=java.lang.String\ getvehicleSpeed()
+comment7.params=newSpeed
+comment7.target=void\ setVehicleSpeed(java.lang.String)
+comment8.params=newColor
+comment8.target=void\ setVehicleColor(java.lang.String)
+comment9.params=
+comment9.target=void\ display()
+comment9.text=This\ method\ displays\ the\ output\ of\ each\ attribute\ with\ suitable\ annotations\ and\ lets\ the\ user\ know\ if\ vehicleWeight\ is\ \r\nempty.
+numComments=10
